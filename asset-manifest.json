@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evarut/static/css/main.f855e6bc.css",
+    "main.js": "/evarut/static/js/main.aaa219a8.js",
+    "static/js/453.ed3810f9.chunk.js": "/evarut/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/evarut/index.html",
+    "main.f855e6bc.css.map": "/evarut/static/css/main.f855e6bc.css.map",
+    "main.aaa219a8.js.map": "/evarut/static/js/main.aaa219a8.js.map",
+    "453.ed3810f9.chunk.js.map": "/evarut/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.aaa219a8.js"
+  ]
+}
